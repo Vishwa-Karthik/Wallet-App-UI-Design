@@ -1,6 +1,6 @@
 # WALLET - APP 
 
-A simple user-interface design of wallet like application.
+A simple user-interface design of wallet like application using Flutter x Dart.
 
 
 ### Add Dependencies
