@@ -1,16 +1,30 @@
-# wallet_ui
+# WALLET - APP 
 
-A new Flutter project.
+A simple user-interface design of wallet like application.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+### Add Dependencies
 
-A few resources to get you started if this is your first Flutter project:
+```bash
+flutter pub add smooth_page_indicator
+```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+```bash
+flutter pub add google_fonts
+```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+or simply
+
+```bash
+flutter pub get
+```
+
+## Design
+<p>
+<img src="https://github.com/Vishwa-Karthik/Wallet-App-UI-Design/blob/master/design.jpg" width=350 height=700 />
+</p>
+
+
+## References
+Smooth Page Indicator : [Smooth Page Indicator](https://pub.dev/packages/smooth_page_indicator) <br>
+Google Fonts : [Google Fonts](https://pub.dev/packages/google_fonts)
